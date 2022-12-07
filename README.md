@@ -1,21 +1,20 @@
-Jekyll Themes
-=============
+# Hydejack Starter Kit
 
-A directory of the best-looking themes for Jekyll blogs
+A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
 
+## Quick Start
+### Running locally
+1. Clone repository (git users), or [download] and unzip.
+2. Open terminal, `cd` into root directory (where `_config.yml` is located)
+3. Run `bundle install` [^1]
+4. Run `bundle exec jekyll serve`
+5. Open <http://localhost:4000/hydejack-starter-kit/>
 
-Submitting a Theme
-------------------
+## What's next?
+* Open files and read the comments
+* Read the [docs](https://hydejack.com/docs/)
+* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
 
-Have a theme you want to share?
+[^1]: Requires Bundler. Install with `gem install bundler`.
 
-* Fork the site on GitHub
-* Create a new post in the `_posts` directory and fill out the relevant YAML fields
-* Make a 250x200 thumbnail and drop it in the thumbnails directory. List its filename in the post's markdown file.
-* Test it out, then push your changes up and open a pull request.
-
-
-License
--------
-
-The contents of this repository are licensed under the [GNU Public License.](http://www.gnu.org/licenses/gpl-3.0.html)
+[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
