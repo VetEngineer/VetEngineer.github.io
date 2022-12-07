@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Enter Seoul National University College of Veterinary Medicine 
+title: Enter SNU College of Veterinary Medicine
 image: 
   path: /assets/img/blog/jeremy-bishop@0,5x.jpg
 description: >
