@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              <Eungu> <Kang>
+  email:             <vet_kang@snu.ac.kr>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -48,7 +48,7 @@ author1:
   social:
     # twitter:         <username>
     # github:          <username>
-    # email:           <mail@domain.tld>
+     email:           <vet_kang@snu.ac.kr>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -59,7 +59,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-     instagram:       <@vet_kang>
+     instagram:       <https://www.instagram.com/vet_kang/>
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>

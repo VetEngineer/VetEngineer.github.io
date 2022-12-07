@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Start Bombay Cattery!!
+title: Starting Bombay Cattery!!
 description: >
   Opsidian을 시작으로 봄베이 육종원 설립
 sitemap: false
