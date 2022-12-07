@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 순종봄베이육종원 딥퓨어캐터리 설립
+title: Start Bombay Cattery!!
 description: >
   Opsidian을 시작으로 봄베이 육종원 설립
 sitemap: false
