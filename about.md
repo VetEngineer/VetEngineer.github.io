@@ -1,16 +1,32 @@
 ---
 layout: page
-title: About this blog
-description: An optional about page for Scriptor Jekyll theme
-feature_image: images/about.jpg
+title: Profile
+permalink: /profile/
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+다른 사람들과 좋은 관계를 유지하고 소통을 하기 위해서는,
+그들의 말을 잘 들어야 합니다.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+동물들과 좋은 관계를 유지하고
+함께하는 동물들을 보호하기 위해서는
+동물들의 언어로 대화해야 합니다.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+우리가 우리집 강아지나 고양이에게
+문제행동이라고 부르는 행동들의 대부분은
+정상행동입니다.
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+보호자가 잘못 대해주어서
+그들의 이야기를 들어주지 않아서
+생긴 문제일 뿐입니다.
 
-*Thank You for reading!*
+우리집 강아지, 고양이는 말을 할 수 없습니다.
+
+그러니, 보호자가 세심하게 들으셔야 합니다.
+
+동물들과 소통할 수 있도록 도와주는
+반려동물 소통 전문가,
+수의동물행동학자 강은구입니다.
+
+
+[수의동물행동학자의 고양이 육종원](https://blog.naver.com/catbogeumjari)
+[수의동물학 블로그](https://hakham.tistory.com/)
