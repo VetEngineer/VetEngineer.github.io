@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Example Content
+title: 순종봄베이육종원 딥퓨어캐터리 설립
 description: >
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  Opsidian을 시작으로 봄베이 육종원 설립
 sitemap: false
 hide_last_modified: true
 ---
