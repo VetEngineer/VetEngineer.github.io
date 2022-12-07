@@ -8,11 +8,31 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+
+    다른 사람들과 좋은 관계를 유지하고 소통을 하기 위해서는,
+    그들의 말을 잘 들어야 합니다.
+
+    동물들과 좋은 관계를 유지하고
+    함께하는 동물들을 보호하기 위해서는
+    동물들의 언어로 대화해야 합니다.
+
+    우리가 우리집 강아지나 고양이에게
+    문제행동이라고 부르는 행동들의 대부분은
+    정상행동입니다.
+
+    보호자가 잘못 대해주어서
+    그들의 이야기를 들어주지 않아서
+    생긴 문제일 뿐입니다.
+
+    우리집 강아지, 고양이는 말을 할 수 없습니다.
+
+    그러니, 보호자가 세심하게 들으셔야 합니다.
+
+    동물들과 소통할 수 있도록 도와주는
+    반려동물 소통 전문가,
+    수의동물행동학자 강은구입니다.
+
+
 
   # This photo will be used in the about section
   picture:
@@ -26,8 +46,8 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
+    # twitter:         <username>
+    # github:          <username>
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -39,7 +59,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
+     instagram:       <@vet_kang>
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
