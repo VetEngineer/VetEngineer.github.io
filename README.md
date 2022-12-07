@@ -1,56 +1,21 @@
-# Scriptor
-> Scriptor is a simple, minimal, clean & responsive Jekyll theme for writers.
+Jekyll Themes
+=============
 
-[Live Demo][demo] &nbsp; | &nbsp; [Download](https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme/archive/master.zip) &nbsp;
+A directory of the best-looking themes for Jekyll blogs
 
-[![Theme preview image](/images/scriptor-jekyll.png)][demo]
 
-[demo]: https://scriptor-jekyll.netlify.app/
+Submitting a Theme
+------------------
 
-## Features
+Have a theme you want to share?
 
-- Responsive design
-- Archive organized by [tags](https://scriptor-jekyll.netlify.com/tags/)
-- Disqus Comments
-- Accent color options
-- [Prism](https://prismjs.com/) syntax highlighter
+* Fork the site on GitHub
+* Create a new post in the `_posts` directory and fill out the relevant YAML fields
+* Make a 250x200 thumbnail and drop it in the thumbnails directory. List its filename in the post's markdown file.
+* Test it out, then push your changes up and open a pull request.
 
-## Local Installation
 
-How to set up and run this theme locally in a Jekyll site.
+License
+-------
 
-_Note: This theme cannot be configured and installed as a theme, however you can still use this repo as a theme with your own content in it._
-
-Clone the repo or fork.
-
-Set up Jekyll -please follow the official documentation that can be found on the [Jekyll docs](https://jekyllrb.com/docs/).
-
-Navigate to the repo and run `bundle install` to install the dependencies.
-
-Then run `bundle exec jekyll serve` to start the Jekyll server.
-
-## Deployment
-
-### Local Instalation
-
-To set up Jekyll on local machine please follow the official documentation that can be found here -> https://jekyllrb.com/docs/.
-
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `bundle exec jekyll serve` to start the Jekyll server.
-
-### Manual Deployment
-
-Jekyll outputs your static site to the `_site` directory by default. You can transfer the contents of this directory to almost any hosting provider to get your site live.
-
-### Netlify
-
-This theme is prepared to be hosted on [Netlify](https://www.netlify.com/). All you need to do is create a new private repository on GitHub or GitLab. Upload the theme to the repository and link your repo to Netlify. Please check [this link](https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/#step-2-link-to-your-github) with the step-by-step guidelines.
-
-### Amazon S3
-
-If you want to host your site on Amazon S3, you can do so by using the [s3_website application](https://github.com/laurilehmijoki/s3_website). It will push your site to Amazon S3, where it can be served like any web server, dynamically scaling to almost unlimited traffic.
-
-Also, please check the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
-
-## Licenses
-
-All files and directories are licensed under the [MIT](https://opensource.org/licenses/mit-license.php) unless explicitly stated.
+The contents of this repository are licensed under the [GNU Public License.](http://www.gnu.org/licenses/gpl-3.0.html)
