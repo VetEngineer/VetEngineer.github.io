@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# url:                   https://username.github.io
+url:                   https://VetEngineer.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -50,7 +50,17 @@ author:
 menu:
   - title:             History
     url:               /history/
-  - title:             Documentation
+  - title:             Vet. Behavioral Medicine
+    url:               /VBM/
+  - title:             HR Image Solution
+    url:               /DL_HRImage/
+  - title:             SMART Factory - AD
+    url:               /DL_AD/
+  - title:             BigData Analysis - Local eCommerce
+    url:               /BD_local/
+  - title:             BigData Analysis - Enterprise eCommerce
+    url:               /BD_EP/
+  - title:             Documents
     url:               /docs/
   - title:             About
     url:               /about/
@@ -85,7 +95,7 @@ remote_theme: hydecorp/hydejack@v9
 
 # Customizaton
 # ----------------------------------------------------------------------------------------
- 
+
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.jpg
 accent_color:          rgb(79,177,186)
@@ -134,11 +144,11 @@ defaults:
       layout:          plain
       sitemap:         false
 
-  # # You can use the following to enable comments on all posts.
-  # - scope:
-  #     type:            posts
-  #   values:
-  #     comments:        true
+  # You can use the following to enable comments on all posts.
+  - scope:
+      type:            posts
+    values:
+      comments:        true
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
@@ -214,7 +224,7 @@ hydejack:
   # This will increase site build speed dramatically!
   no_inline_css:       false
 
-  # Set to `true` if you don't intend on changing the accent color on a per-page basis. 
+  # Set to `true` if you don't intend on changing the accent color on a per-page basis.
   # This will increase site build speed!
   no_page_style:       false
 
@@ -257,7 +267,7 @@ hydejack:
 
   # Buyers of the PRO version can opt to hide all dates from the theme.
   # Frequent consumers of online content will know that nothing devalues a post like
-  # seeing an old date. 
+  # seeing an old date.
   hide_dates:          false
 
   # TODO
@@ -398,19 +408,19 @@ jekyll_compose:
   default_front_matter:
     drafts:
       layout: post
-      description: > 
+      description: >
         수의행동과학자이자 고양이 & 앵무새 브리더인 캡틴강의 블로그
       image:
         path: /assets/img/sidebar-bg.jpg
     posts:
       layout: post
-      description: > 
+      description: >
         수의행동과학자이자 고양이 & 앵무새 브리더인 캡틴강의 블로그
       image:
         path: /assets/img/sidebar-bg.jpg
     projects:
       layout: project
-      description: > 
+      description: >
         수의행동과학자이자 고양이 & 앵무새 브리더인 캡틴강의 블로그
       image:
         path: /assets/img/sidebar-bg.jpg
